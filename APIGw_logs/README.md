@@ -1,4 +1,4 @@
-# Script to for with API Gateway execution logs from CloudWatch
+# Scripts to for with API Gateway execution logs from CloudWatch
 
 Those logs come with each stream inside a folder and zipped. 
 Use unzip_all.py to extract all logs to a different folder.
